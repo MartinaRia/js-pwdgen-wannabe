@@ -2,6 +2,7 @@ body{
   background: url(img/matrix.jpg);
   background-position: top;
   background-size: cover;
+  font-family: 'Oxanium'
 }
 
 .container{
@@ -21,11 +22,9 @@ body{
 }
 
 h1{
-  font-family: 'Viaoda Libre';
   color: white;
 }
 
 h2{
-  font-family: 'Oxanium';
   color: #98f4a8;
 }
